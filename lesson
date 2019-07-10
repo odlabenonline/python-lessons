@@ -1,0 +1,4 @@
+To start the postgresql      
+  #pg_ctlcluster 11 main start#
+
+
